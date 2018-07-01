@@ -4,3 +4,22 @@
   visibility: hidden;
   display: block;
 }
+#wall .parent #tag-2 {
+  background: url(../images/tag-2.png) no-repeat;
+  z-index: 0;
+  visibility: hidden;
+  display: block;
+}
+
+div#wall .parent #tag-3.slick {
+  background: url(../images/tag-3.png) no-repeat;
+  z-index: 0;
+  visibility: hidden;
+  display: block;
+}
+#wall .parent #tag-4 {
+  background: url(../images/tag-4.png) no-repeat;
+  z-index: 0;
+  visibility: hidden;
+  display: block;
+}
